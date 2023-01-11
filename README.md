@@ -3,10 +3,12 @@
 criação de alias para o Ubuntu e Arch Linux.
 
 ## Como utilizar ? 
-Para usar basta substituir o arquivo neste repositório pelo arquivo `~/.zshrc` . e sair do zsh, quanto iniciar o terminal, as alias já estarão funcionando. 
+Para usar basta substituir o arquivo neste repositório pelo arquivo `~/.zshrc` e reiniciar o terminal. 
 
 
-## Alias comandos do sistema; 
+
+
+### Alias comandos do sistema; 
 
 `la` = `la -a`
 
@@ -16,7 +18,7 @@ Para usar basta substituir o arquivo neste repositório pelo arquivo `~/.zshrc` 
 
 `d`  = `rm -r $d`
 
-## Alias do git; 
+### Alias do git; 
 
 `gi` = `git init`
 
@@ -34,4 +36,14 @@ Para usar basta substituir o arquivo neste repositório pelo arquivo `~/.zshrc` 
 
 `gb` = `git init --bare ` 
 
+
+### Gerênciador de pacotes; 
+
+Comandos para o APT. 
+
+`up` =  `sudo apt update && sudo apt upgrade`
+
+`ins` = `sudo apt install <nome do pacote> -y`
+
+`del` = `sudo apt remove <nome do pacote> -y`
 

@@ -3,7 +3,7 @@
 criação de alias para o Ubuntu e Arch Linux.
 
 ## Como utilizar ? 
-Para usar basta substituir o arquivo neste repositório pelo arquivo `~/.zshrc` e reiniciar o terminal. 
+Para usar basta substituir os arquivos `~/.zshrc` nas suas receptivas pastas, para o diertório `~/` e reiniciar o terminal. 
 
 
 

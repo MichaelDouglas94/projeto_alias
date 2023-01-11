@@ -1,3 +1,7 @@
+
+# Alias para o Ubuntu! 
+# Para usar, substitua este arquivo pelo .zsh na ~/ 
+
 # Use powerline
 USE_POWERLINE="true"
 # Source manjaro-zsh-configuration
@@ -19,7 +23,6 @@ alias del="sudo apt remove      -y"
 
 # Alias do sistema. 
 alias la="ls -a" 
-alias l="cd  && ls -a" 
 alias c="clear"
 alias e="exit" 
 alias d="rm -r" 

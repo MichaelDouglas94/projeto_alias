@@ -47,3 +47,11 @@ Comandos para o APT.
 
 `del` = `sudo apt remove <nome do pacote> -y`
 
+
+Comandos para o Pacman
+
+`up` =  `sudo pacman -Syu`
+
+`ins` = `sudo pacman -S <nome do pacote> -y`
+
+`del` = `sudo pacman -R <nome do pacote> -y`

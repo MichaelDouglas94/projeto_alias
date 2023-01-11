@@ -16,7 +16,7 @@ Para usar basta substituir o arquivo neste repositório pelo arquivo `~/.zshrc` 
 
 `e`  = `exit`
 
-`d`  = `rm -r $d`
+`d`  = `rm -r <nome do arquivo>`
 
 ### Alias do git; 
 

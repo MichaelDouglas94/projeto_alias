@@ -55,3 +55,7 @@ Comandos para o Pacman
 `ins` = `sudo pacman -S <nome do pacote> -y`
 
 `del` = `sudo pacman -R <nome do pacote> -y`
+
+Comandos AUR
+
+`y` = `yay -S <nome do pacote> -y`

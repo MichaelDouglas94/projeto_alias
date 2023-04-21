@@ -37,7 +37,7 @@ Para usar basta substituir os arquivos `~/.zshrc` nas suas receptivas pastas, pa
 `gb` = `git init --bare ` 
 
 
-### Gerênciador de pacotes; 
+### Gerenciador de pacotes; 
 
 Comandos para o APT. 
 
